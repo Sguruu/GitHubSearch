@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GirHubSearch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TEAM">TEAM</string>
+    <string name="enterTheNameOfTheRepository">Введите название репозитория</string>
+    <string name="SEARCH">ПОИСК</string>
+    <string name="Search_Result">Результат поиска</string>
+    <string name="in_internet">в интернете</string>
+    <string name="download">скачать</string>
+    <string name="savedrepositories">Сохраненные репозитории</string>
+</resources>
